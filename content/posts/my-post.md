@@ -1,12 +1,12 @@
 ---
 type: "post"
-title: "Why should you love Debonairs Pizzeria?"
+title: "Welcome to Yanna Resse"
 author: "Yanna Resse"
-category: "lifestyle"
-date: "2020-02-22"
-slug: "/why-you-should-love-dp"
-postImage: "./img/pizza.jpg"
-metaDescription: "The best joints for pizza. Check out Yanna Resse's recommendations and get inspired to visit the restaurants!"
+category: "makeup"
+date: "2018-01-01"
+slug: "/post"
+postImage: "./img/balloons.jpg"
+metaDescription: "Welcome "
 ---
 
 Debonairs is a pizza serving restaurant located in a few places in Nairobi such as 27 Muindi Mbingu Street, Total ABC along Waiyaki Way, Ngong Road Uchumi Hyper and at Kiambu Road Quickmart. My experience was at 27 Muindi Mbingu Street which s in town near the Jevanjee Gardens.
