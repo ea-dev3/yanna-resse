@@ -18,7 +18,8 @@ module.exports = {
 		github: "", // YOUR GITHUB PROFILE HERE
 		pinterest: "", // YOUR PINTEREST PROFILE HERE
 		facebook: "", // YOUR FACEBOOK PROFILE HERE
-		twitter: "" // YOUR TWITTER PROFILE HERE
+		twitter: "", // YOUR TWITTER PROFILE HERE
+		instagram: ""
 	},
 	plugins: [
 		"gatsby-plugin-sitemap",
