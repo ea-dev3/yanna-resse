@@ -19,7 +19,7 @@ module.exports = {
 		pinterest: "", // YOUR PINTEREST PROFILE HERE
 		facebook: "", // YOUR FACEBOOK PROFILE HERE
 		twitter: "", // YOUR TWITTER PROFILE HERE
-		instagram: ""
+		instagram: "yanna_resse"
 	},
 	plugins: [
 		"gatsby-plugin-sitemap",

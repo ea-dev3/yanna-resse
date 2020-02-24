@@ -21,12 +21,24 @@ export default ({ props, data }) => (
 				}}>
 				About {data.site.siteMetadata.title}
 			</h1>
+
+			<p className="pv4 ph5 bg-dark-gray  near-white  sans-serif no-underline mv2">
+				{" "}
+				I am the basic definition of a food junkie and i feed my addiction by
+				trying out different couisines at various food joints. Am infatuated
+				with trying out different makeup looks and am gonna show you all my look
+				book, the products i use and why i love those specific product brands.
+				Icreated this platform to give you all insight and a glipmse into my
+				world and allow you all to see life through my eyes by taking a look at
+				my preferences in terms of makeup brands, products and other elements of
+				our lifetyle.
+			</p>
 		</div>
-		<div className="mw9 center flex flex-wrap pv5-l w-100">
-			<div className="mw7 w-100 pa2">
+		<div className="mw5 center flex flex-wrap pv10-l w-100">
+			<div className="mw7 w-100 pa2 ">
 				<Link
 					to="/blog"
-					className="dib bg-dark-gray b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv2">
+					className="dib bg-dark-gray b near-white hover-bg-mid-gray pv3 ph4 ttu tracked sans-serif no-underline mv1">
 					Read the blog
 				</Link>
 			</div>
