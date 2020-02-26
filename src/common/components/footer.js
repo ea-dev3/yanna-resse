@@ -124,7 +124,15 @@ export default () => (
 					</div>
 				</div>
 				<div className="w-100 mw9 silver center sans-serif f6">
-					<p>Yanna Resse (C) 2020 by EADev </p>
+					<p>
+						Yanna Resse (C) 2020 by{" "}
+						<a
+							href="https://eugenealex.netlify.com/"
+							target="_blank"
+							className="red sans-serif f6 tracked pv1 db mh1">
+							Eugene Alex{" "}
+						</a>{" "}
+					</p>
 				</div>
 			</footer>
 		)}
