@@ -117,7 +117,7 @@ export default () => (
 						</Link>
 						<span className="mh1">|</span>
 						<a
-							href="https://yanna-resse.netlify.com/"
+							href="https://instagram/yanna_resse"
 							className="silver sans-serif f5 tracked pv1 db mh1">
 							IG
 						</a>
