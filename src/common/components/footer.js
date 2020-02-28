@@ -118,6 +118,9 @@ export default () => (
 						<span className="mh1">|</span>
 						<a
 							href="https://instagram/yanna_resse"
+							target="_blank"
+							without
+							rel="noopener noreferrer"
 							className="silver sans-serif f5 tracked pv1 db mh1">
 							IG
 						</a>
@@ -128,8 +131,10 @@ export default () => (
 						Yanna Resse (C) 2020 by{" "}
 						<a
 							href="https://eugenealex.netlify.com/"
+							className="red sans-serif f6 tracked pv1 db mh1"
 							target="_blank"
-							className="red sans-serif f6 tracked pv1 db mh1">
+							without
+							rel="noopener noreferrer">
 							Eugene Alex{" "}
 						</a>{" "}
 					</p>
