@@ -18,14 +18,23 @@ Bhajias and Viazi karai are delicious Swahili dishes that many people would love
 ##### INGREDIENTS
 
 5 large potatoes
+
 1 and 1/2 cups of home baking flour
+
 1 tsp red chilli powder
+
 Salt to taste
+
 2 ginger roots
+
 4 cloves of garlic
+
 2 tsp tumeric powder
+
 3 green chillies
+
 Water to make a pancake like batter consistency
+
 Cooking oil enough for deep frying
 
 ##### DIRECTIONS
@@ -53,14 +62,23 @@ Cooking oil enough for deep frying
 ##### GREDIENTS
 
 5 large potatoes
+
 1 and 1/2 cups of home baking flour
+
 1 tbs red chilli powder
+
 Salt to taste
+
 1 tbs turmeric powder
+
 Juice from 5 lemons
+
 Coriander leaves
+
 1 tbs spring onions / 1 spring onion
+
 Cooking oil enough for deep frying
+
 Water to make a pancake like batter consistency
 
 ##### DIRECTIONS
@@ -83,4 +101,4 @@ Water to make a pancake like batter consistency
 
 9. Serve while hot with ukwaju or ketchup and enjoy.
 
-![Pizza](./img/viazi_karai.jpg)
+![Viazi Karai](./img/viazi-karai.jpg)
