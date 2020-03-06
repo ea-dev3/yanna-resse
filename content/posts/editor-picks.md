@@ -19,6 +19,8 @@ Makeup is nowadays a MUST HAVE tool for all especially for ladies. Makeup is bas
 
 Eye shadow is a makeup product that is usually applied on the eyelids and under the eyes. It makes a person's eye to look unique and attractive. Eye shadow can make one's eye appear larger, compliment one's eye or draw attention to it. It is therefore a must have if one desires to add depth and dimension to one's eye.
 
+![Fenty Beauty](./img/fentybeauty4.jpg)
+
 2. Lipstick
 
 ![Fenty Beauty](./img/fentybeauty5.jpg)
@@ -51,7 +53,7 @@ Setting spray is a cosmetic product that preserves applied makeup for long perio
 
 7. Foundation
 
-![L'oreal Paris](./img/lorealparis1.jpg)
+![L'oreal Paris](./img/lorealparis2.jpg)
 
 Foundation is a liquid or powder cosmetic applied to the face to create an even uniform colour to the complexion and to cover the flaws. Foundation is important because it covers imperfections and gives a dewy or matte finish. It acts as the base for easy application of other products such as blush, concealer and highlighters. Some foundations also function as moisturizer or sunscreen.
 
@@ -99,13 +101,13 @@ BB cream is a cosmetic product with a creamy formulation and is used to even out
 
 15. Compact
 
-![Fenty Beauty](./img/fentybeauty2.jpg)
+![Anastasia Beverly Hills](./img/anastasiabeverlyhills3.jpg)
 
 Compact is a powder box that contains a mirror, pressed or loose face powder with a powder puff. It is best used for combination to oily skin and it has to be appliedon top of your liquid or creamy foundation so that it will not slide down your face. Compact powder can be used daily provided it suits your skin and is authentic so that it does not make your skin dull or harm your skin.
 
 16. Eye brow pomade
 
-![Anastasia Beverly Hills](./img/.jpg)
+![Anastasia Beverly Hills](./img/anastasiabeverlyhills2.jpg)
 
 Pomade is a cosmetic product that is used on the eyebrows and is the secret to all the bold brows givimg it a dramatic and defined look. Pomade makes thicker brows more powerful. Pomade gives brows a more natural look as opposed to pencils.
 
