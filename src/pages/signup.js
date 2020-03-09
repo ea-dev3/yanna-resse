@@ -38,8 +38,9 @@ export default function SignUp() {
 				noValidate
 				autoComplete="off"
 				method="post"
-				netlify-honeypot="bot-field"
-				data-netlify="true">
+				data-netlify-honeypot="bot-field"
+				data-netlify="true"
+				name="SignUps">
 				<input type="hidden" name="bot-field" />
 				<TextField
 					id="full-name"
