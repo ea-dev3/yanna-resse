@@ -5,7 +5,7 @@ author: "Yanna Resse"
 category: "lifestyle"
 date: "2020-02-24"
 slug: "hottest nganya's in Nai"
-postImage: "./img/bumblebee5.jpg"
+postImage: "./img/nyuki.jpg"
 
 metaDescription: "BUMBLEBEE the hottest mat in Rongai "
 ---
