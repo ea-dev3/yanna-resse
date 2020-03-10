@@ -12,7 +12,7 @@ metaDescription: "BUMBLEBEE the hottest mat in Rongai "
 
 #### RONGAI'S BUMBLEBEE
 
-Bumblebee is one of the newest and hottest nganyas in Rongai right now. Its commonly referred to as 'BB'or 'nyuki'.It has P3 Rockford subwoofer speakers of 15inches, a 65 inch main screen, 4 side screens of 43 inches each, 22(10")screens on every seat and midrange and ts pioneer speakers. Personally, this is my best matatu right now.
+Bumblebee is one of the newest and hottest nganyas in Rongai right now. Its commonly referred to as 'BB'or 'nyuki'.It has P3 Rockford subwoofer speakers of 15inches, a 65 inch main screen, 4 side screens of 43 inches each, 22(10")screens on every seat and midrange and ts pioneer speakers.The great design of Bumblebee is credited to Oby and Chief. Personally, this is my best matatu right now.
 
 ![BumbleBee ](./img/bumblebee3.jpg)
 
