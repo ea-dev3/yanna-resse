@@ -59,7 +59,7 @@ Cooking oil enough for deep frying
 
 ![Pizza](./img/viazi_karai-1.jpg)
 
-##### GREDIENTS
+##### INGREDIENTS
 
 5 large potatoes
 
