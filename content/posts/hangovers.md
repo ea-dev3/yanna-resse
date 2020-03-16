@@ -17,11 +17,11 @@ A hangover is a severe headache that is caused by having an excess consumption o
 
 Hangovers can however be avoided by using the following steps;
 
-1. _**Avoid drinking alcohol on an empty stomache**_
+1. _**Avoid drinking alcohol on an empty stomach**_
 
 ![alcohol](./img/alcohol2.jpg)
 
-Alcohol is a substance that is quickly absorbed in the body especially by the small intestine. When you take alcohol on an empty stomach, much of the alcohol passes from the stomach to the small intestine where it is absorbed into the bloodstream. If food is in your stomache before you take alcohol, the food will slow down the absorption rate. If alcohol is quickly absorbed it intensifies the effects of the alcohol such as the inability to coordinate your body movements and your inability to think clearly and it will definitely make your hangover worse.
+Alcohol is a substance that is quickly absorbed in the body especially by the small intestine. When you take alcohol on an empty stomach, much of the alcohol passes from the stomach to the small intestine where it is absorbed into the bloodstream. If food is in your stomach before you take alcohol, the food will slow down the absorption rate. If alcohol is quickly absorbed it intensifies the effects of the alcohol such as the inability to coordinate your body movements and your inability to think clearly and it will definitely make your hangover worse.
 
 _**Some of the foods you should eat before taking alcohol are;**_
 
