@@ -2,7 +2,7 @@
 type: "post"
 title: "My TOP 10 list of the most popping gengetone artistes in the game right now!!!"
 author: "Yanna Resse"
-category: "lifestle"
+category: "lifestyle"
 date: "2020-03-13"
 slug: "/top-10-gengetone-artistes"
 postImage: "./img/concert.jpg"
