@@ -4,7 +4,7 @@ title: "Which of these Throwback legendary Animations made your childhood!!!"
 author: "Yanna Resse"
 category: "lifestyle"
 date: "2020-03-18"
-slug: "/legendary-animations"
+slug: "/animations"
 postImage: "./img/epic.jpg"
 metaDescription: "Thee Golden Oldies...."
 ---
