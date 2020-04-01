@@ -3,16 +3,14 @@ type: "post"
 title: "Welcome to Yanna Resse"
 author: "Yanna Resse"
 category: "makeup"
-date: "2020-01-01"
+date: "2020-02-20"
 slug: "/post"
-postImage: "./img/balloons.jpg"
-metaDescription: "Welcome "
+postImage: "./img/cover.jpg"
+metaDescription: "Welcome"
 ---
 
-Debonairs is a pizza serving restaurant located in a few places in Nairobi such as 27 Muindi Mbingu Street, Total ABC along Waiyaki Way, Ngong Road Uchumi Hyper and at Kiambu Road Quickmart. My experience was at 27 Muindi Mbingu Street which s in town near the Jevanjee Gardens.
+![welcome](./img/welcome.jpg)
 
-Debonairs Pizza offers an opportunity to try something amazing with their variety of pizzas and mind-blowing offers to decide on. Since am a big fan of chicken, my favourite flavour was The Tikka Chicken. The pizza tastes chewy and crispy with the debonairs special sauce the slightly fiery hot chicken pieces and cheese. All these different textures combine with the sauce in every bite to give you an umami savoury effect. The thickness of the pizza based on preference, for me I go with thick and the additional toppings only make the pizza be more to die for. The pizza is usually taken with any fizzy drink of your choice, for me, my preferred option was the Fanta Passion fizzy drink. Debonairs Pizza is one of my favourite pizzerias because of their finger-licking pizza, their special debonairs sauce which is a unique characteristic differentiating them from other pizzerias and they also have fast and exquisite service.
+I am the basic definition of a food junkie and i feed my addiction by going to different food joints and trying out a variety of food. My infatuation with makeup drives me to continously try different makeup looks and am gonna show you all my look book, the products i use and why i love those specific product brands. I created this platform to give you all insight and a glimpse into my world and allow you to see life through my eyes by taking a look at my preferences in terms of makeup brands and products and other elements of our lifestyle._**Feel at home with Yanna Resse.**_
 
-#### WHAT TO LOOK OUT FOR!
-
-They may have delicious pizza but they only have a few outlets within Nairobi which may be strenuous for some people to get to those places just to enjoy a slice of pizza especially for those people like me who prefer having the whole restaurant feel and experience. In as much as they have a free delivery service, the service only applies to a few kilometres from the restaurant.
+![welcome](./img/2020.jpg)
