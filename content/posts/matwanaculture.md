@@ -14,6 +14,7 @@ metaDescription: "Let's Find Out!!"
 
 ![bedrock](./img/bedrock.jpg)
 
+_**CONTENT:Courtesy Yanna Resse and Stunt Man Freddy Psycho**_
 If you've used public transport to move from one point to another, you've prolly noticed pimped matatus better known as 'Nganya', 'Manyanga' or 'Ma3'. I decided to take a look at their journey as they are transformed by great minds from nothing to moving works of art. The matwana culture was founded by Graff Matwana and his vision for matatus was to rebrand them in great limelight and also to preserve their culture even for years to come. There are a numerous people who come together to design the perfect nganya from the graffiti artistes to the sound installers and am gonna be giving you insight on how that process comes to be until we see the final product on the road, magnificent works of art or better yet picasso's on wheels.
 
 ![V.A.T](./img/vat.jpg)

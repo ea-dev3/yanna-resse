@@ -25,4 +25,5 @@ I believe this matatu is one of the best along Waiyaki Way and i particularly li
 During the evenings, you have to be aware that in order for you to board Cloud 9, you have to have been in a queue, although this system helps to bring order as passengers board the matatus because of the policy of 1st come 1st served, it still sucks because if there's heavy traffic, you wait in line for quite a while before the matatu arrives at the stage.
 
 ![Cloud 9 Waiyaki Way](./img/cloud92.jpg)
-ssss
+
+CONTENT: Courtesy Yanna Resse and Stunt Man Freddy Psycho

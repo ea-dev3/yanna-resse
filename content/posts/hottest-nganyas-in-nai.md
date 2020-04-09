@@ -25,3 +25,5 @@ The musical effect of this nganya's speakers is what i love most about BB becaus
 If you are not a fun of the Nairobi night life scene especially dundain' in the club then the loudness and refreshing effect of the music in BB is definitely not for you.
 
 ![Bumble Bee Rongai](./img/bumblebee.jpg)
+
+_**CONTENT: Courtesy Yanna Resse and Stunt Man Freddy Psycho**_
