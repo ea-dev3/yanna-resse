@@ -5,12 +5,13 @@ author: "Yanna Resse"
 category: "makeup"
 date: "2020-02-20"
 slug: "/post"
-postImage: "./img/cover.jpg"
+postImage: "./img/welcome2.jpg"
 metaDescription: "Welcome"
 ---
 
-![welcome](./img/welcome.jpg)
+![welcome](./img/welcome4.jpg)
 
-I am the basic definition of a food junkie and i feed my addiction by going to different food joints and trying out a variety of food. My infatuation with makeup drives me to continously try different makeup looks and am gonna show you all my look book, the products i use and why i love those specific product brands. I created this platform to give you all insight and a glimpse into my world and allow you to see life through my eyes by taking a look at my preferences in terms of makeup brands and products and other elements of our lifestyle._**Feel at home with Yanna Resse.**_
+Welcome to my blog YANNA RESSE. My blog is divided into two; THE LIFESTYLE SECTION and THE MAKEUP SECTION. The LIFESTYLE SECTION contains recommendations of different things that surround our day to day lives such as what restaurants to visit, what clubs are popping, which nganya's are the best, what foods should you order at the recommended restaurants, what movies/animations should you watch and abit of advise about relationships and friendships. The MAKEUP SECTION on the other hand is about the different cosmetics people use and which ones are the best for your skin types, where to shop for quality makeup on a budget and also short tutorials that will help you apply makeup like a pro.
+_**Feel at home with Yanna Resse.**_
 
-![welcome](./img/2020.jpg)
+![welcome](./img/welcome3.jpg)
