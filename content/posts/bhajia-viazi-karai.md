@@ -57,7 +57,7 @@ Cooking oil enough for deep frying
 
 #### HOW TO MAKE VIAZI KARAI
 
-![Pizza](./img/viazi_karai-1.jpg)
+![viazi karai](./img/viazi_karai-1.jpg)
 
 ##### INGREDIENTS
 
