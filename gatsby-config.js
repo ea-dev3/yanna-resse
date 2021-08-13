@@ -3,7 +3,7 @@ module.exports = {
 		navbarLinks: [
 			{ to: "/makeup", name: "Makeup" },
 			{ to: "/lifestyle", name: "Lifestyle" },
-			{ to: "/blog", name: "blog" }
+			{ to: "/blog", name: "blog" },
 		],
 		title: "Yanna Resse",
 		description:
@@ -19,7 +19,7 @@ module.exports = {
 		pinterest: "", // YOUR PINTEREST PROFILE HERE
 		facebook: "", // YOUR FACEBOOK PROFILE HERE
 		twitter: "", // YOUR TWITTER PROFILE HERE
-		instagram: "yanna_resse"
+		instagram: "yanna_resse",
 	},
 	plugins: [
 		"gatsby-plugin-sitemap",
@@ -44,13 +44,13 @@ module.exports = {
 				feeds: [
 					{
 						serialize: ({ query: { site, allMarkdownRemark } }) => {
-							return allMarkdownRemark.edges.map(edge => {
+							return allMarkdownRemark.edges.map((edge) => {
 								return Object.assign({}, edge.node.frontmatter, {
 									description: edge.node.excerpt,
 									date: edge.node.frontmatter.date,
 									url: site.siteMetadata.siteUrl + edge.node.frontmatter.slug,
 									guid: site.siteMetadata.siteUrl + edge.node.frontmatter.slug,
-									custom_elements: [{ "content:encoded": edge.node.html }]
+									custom_elements: [{ "content:encoded": edge.node.html }],
 								});
 							});
 						},
@@ -76,17 +76,17 @@ module.exports = {
             }
           `,
 						output: "/rss.xml",
-						title: "RSS Feed"
-					}
-				]
-			}
+						title: "RSS Feed",
+					},
+				],
+			},
 		},
 		{
 			resolve: "gatsby-source-filesystem",
 			options: {
 				path: `${__dirname}/content`,
-				name: "content"
-			}
+				name: "content",
+			},
 		},
 		{
 			resolve: "gatsby-transformer-remark",
@@ -96,30 +96,19 @@ module.exports = {
 					{
 						resolve: "gatsby-remark-images",
 						options: {
-							maxWidth: 1400
-						}
-					}
-				]
-			}
+							maxWidth: 1400,
+						},
+					},
+				],
+			},
 		},
 		{
 			resolve: "gatsby-plugin-web-font-loader",
 			options: {
 				google: {
-					families: ["Karla", "Playfair Display", "Lora"]
-				}
-			}
+					families: ["Karla", "Playfair Display", "Lora"],
+				},
+			},
 		},
-		{
-			resolve: "gatsby-plugin-google-analytics",
-			options: {
-				trackingId: "",
-				head: false,
-				anonymize: true,
-				respectDNT: true,
-				exclude: ["/success"],
-				cookieDomain: "yanna-resse.netlify.com"
-			}
-		}
-	]
+	],
 };
