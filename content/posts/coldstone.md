@@ -3,17 +3,17 @@ type: "post"
 title: "Wanna know why coldstone is the absolute favourite spot for icecream"
 author: "Yanna Resse"
 category: "lifestyle"
-date: "2021-08-12"
+date: "2021-08-14"
 slug: "/icecreamgasms"
 postImage: "./img/strawberry.jpg"
 metaDescription: "Just one word to describe it- Icecreamgasms"
 ---
 
-![coldstone](./strawberry2/.jpg)
+![coldstone](./img/strawberry2.jpg)
 
 Have you ever wondered where you can get creamy, sweet, chunky and exquisite tasting icecream, well look no further because i know a place that will completely blow your mind. Lets just say am a huge fun of sweet yet cold ice cream melting in my mouth. Ive always heard about coldstone but i hadn't really tried it but the day i tasted their icecream, i was hooked for life.
 
-![coldstone](./chocolate/.jpg)
+![coldstone](./img/chocolate.jpg)
 
 There are a variety of flavours to try at cold stone, you even get to taste the flavours before you buy and the flavour that did it for me was The Caramel and Salted Caramel flavour. My go to favourite flavour is usually vanilla because i like the smell and taste of vanilla but if you compare it to this flavour i believe its more sweet smelling nad even more sweet tasting. Coldstone icecream is an absolute joyride, its very smooth and the waffles they add onto the icecream which kinda tastes like cookies, addds abit of chunkiness to the icecream making it die for, i mean daaamn!!!
 
